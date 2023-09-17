@@ -48,7 +48,7 @@
         </div>
 
         <div class="mb-3">
-            <center><input type="submit" class="btn btn-primary" value="Регистрация">
+            <center><input type="submit" class="btn btn-primary" value="Регистрация"></center>
         </div>
     </form>
     <?php
