@@ -1,0 +1,1 @@
+[{"login":"\u0414\u0430\u043d\u0438\u043b","password":"7110eda4d09e062aa5e4a390b0a572ac0d2c0220","address":"\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0441\u043a\u0430\u044f ","email":"Mariops132@gmail.com","number":"+79964116145","createdAt":"01.10.2023 17:07:23"}]
